@@ -1,11 +1,12 @@
 ### Hi there 👋
-
+- 🔭 My name is Aaron, currenntly a fourth year at the university of Toronto where I study computer science, statistics, and mathematics
+- 🌱 Have experience with languages such as python, java, and other software such as R language. I have also had many opportunities to work with cloud services such as AWS
+- ⚡ I love to play video games and do sports such as skiing and snowboarding, which I have done for over 15 years now
 <!--
 **Pix3ls126/Pix3ls126** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
